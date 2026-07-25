@@ -13,8 +13,8 @@ Repository ini dibagi menjadi beberapa kategori sesuai bidang project:
 | Kategori | Isi | Tools yang Digunakan |
 |---|---|---|
 | 📊 [Data Analysis](01-data-analysis/) | Dashboard, analisis data, dan laporan berbasis data | Excel, SQL, Power BI, Python |
-| 💻 [Web Development](02-web-development/) | Project pengembangan website/aplikasi | HTML, CSS, JavaScript, dll |
-| 🎨 [UI/UX Design](03-ui-ux/) | Mockup, wireframe, dan prototype desain | Figma |
+| 💻 [Web Development](02-web-development/) | Project pengembangan website/aplikasi | HTML, CSS, php, dll |
+| 🎨 [UI/UX Design](03-ui-design/) | prototype desain | Figma |
 
 Setiap kategori punya README sendiri yang berisi daftar project lengkap dengan penjelasan singkat dan link masing-masing.
 

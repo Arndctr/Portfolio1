@@ -2,7 +2,7 @@
 
 Fresh graduate dengan kemampuan di bidang **Data Analysis**, **Web Development**, dan **UI/UX Design**. Repository ini adalah pusat portofolio saya yang berisi kumpulan project dari berbagai bidang — silakan eksplorasi sesuai minat atau kebutuhan Anda.
 
-📧 arindacitraningrum@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;💼 [LinkedIn](https://linkedin.com/in/arndctr13)&nbsp;&nbsp;|&nbsp;&nbsp;📄 [Download CV](docs/resume.pdf)
+📧 arindacitraningrum@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;💼 [LinkedIn](https://linkedin.com/in/arndctr13)&nbsp;&nbsp;|&nbsp;&nbsp
 
 ---
 

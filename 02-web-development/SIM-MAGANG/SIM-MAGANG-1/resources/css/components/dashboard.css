@@ -1,0 +1,27 @@
+/* =============================================================
+   dashboard.css  —  Admin Dashboard (page-specific only)
+   Semua shared style ada di admin-table.css
+   ============================================================= */
+
+/* stat grid layout */
+.db-stat-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    margin-bottom: 14px;
+}
+@media (max-width: 1280px) { .db-stat-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 640px)  { .db-stat-grid { grid-template-columns: repeat(2, 1fr); } }
+
+/* batch icon wrapper di header card */
+.db-batch-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    background: var(--blue-lt);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+.db-batch-icon img { width: 16px; height: 16px; }

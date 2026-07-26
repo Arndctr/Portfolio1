@@ -20,13 +20,6 @@ Setiap kategori punya README sendiri yang berisi daftar project lengkap dengan p
 
 ---
 
-## 📌 Cara Menggunakan Repository Ini
-
-1. Klik salah satu kategori di atas sesuai bidang yang ingin dilihat
-2. Di dalam kategori, akan ada daftar project dengan link ke repository masing-masing
-3. Setiap project memiliki README sendiri berisi penjelasan latar belakang, proses pengerjaan, dan hasil
-
----
 
 
 ## 📬 Kontak

@@ -1,7 +1,7 @@
 # Sistem Informasi Perpustakaan Digital — SMP Negeri 12 Yogyakarta
 
 
-**Tools:** Laravel, Livewire, MySQL, Laravel Excel
+**Tools:** Laravel, Livewire, MySQLite, Laravel Excel
 **Jenis:** Penelitian Dosen (terdaftar HAKI) — Universitas Negeri Yogyakarta
 
 > Dikembangkan sebagai bagian dari penelitian dosen dan telah terdaftar HAKI. Dikerjakan bersama tim.

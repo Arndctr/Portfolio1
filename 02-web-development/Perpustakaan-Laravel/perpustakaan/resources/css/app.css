@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Pastikan dropdown muncul di atas */
+.z-30 {
+    z-index: 9999 !important;
+}
+
+/* Pastikan parent container tidak clipping */
+.overflow-x-auto {
+    overflow-x: auto;
+    overflow-y: visible; /* supaya vertical dropdown tidak terpotong */
+}
